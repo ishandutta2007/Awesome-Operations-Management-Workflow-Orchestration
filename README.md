@@ -133,116 +133,116 @@ Self-hosted, open-source workflow platforms offer unconstrained architectural fl
 
 ### 📊 Open-Source Solutions Comparison Table
 
-The table below is sorted in descending order by GitHub repository popularity (**GitHub Stars** ⭐):
+The table below is sorted in descending order by GitHub repository popularity (**GitHub_Stars** ⭐):
 
-| Rank | Project | GitHub Stars Badge | Primary Stack | Core License | Engine Architecture & Signature Use Case |
+| Rank | Project | GitHub_Stars_Badge | Primary Stack | Core License | Engine Architecture & Signature Use Case |
 |:---:|---|:---:|---|---|---|
-| 1 | **[n8n](https://github.com/n8n-io/n8n)** | [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Sustainable Use License | Canvas-based visual integration builder; 400+ nodes, webhooks, and AI agent extensions |
-| 2 | **[Huginn](https://github.com/huginn/huginn)** | [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers) | Ruby / MySQL | MIT License | Open-source self-hosted IFTTT/Zapier agent ecosystem for scraping, events, and automated alerts |
-| 3 | **[Apache Airflow](https://github.com/apache/airflow)** | [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Python / Celery / K8s | Apache 2.0 | Programmatic Python DAG orchestrator; industry-standard batch data pipelines and ETL ops |
-| 4 | **[Kestra](https://github.com/kestra-io/kestra)** | [![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers) | Java / Micronaut | Apache 2.0 | Declarative YAML-based event-driven orchestrator with microservice and data pipeline topologies |
-| 5 | **[Activepieces](https://github.com/activepieces/activepieces)** | [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | TypeScript / Angular | MIT License | Lightweight no-code visual workflow automation, 400+ community pieces, AI and MCP server support |
-| 6 | **[Temporal](https://github.com/temporalio/temporal)** | [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) | Go / Multi-SDK | MIT License | Durable code-first execution platform; distributed transactions, Saga patterns, and infinite retries |
-| 7 | **[Prefect](https://github.com/prefecthq/prefect)** | [![GitHub stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers) | Python / Pydantic | Apache 2.0 | Python-native dynamic workflow orchestrator with granular task caching, state hooks, and web UI |
-| 8 | **[Node-RED](https://github.com/node-red/node-red)** | [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) | JavaScript / Node.js | Apache 2.0 | Flow-based visual programming for wiring hardware devices, APIs, edge gateways, and IoT pipelines |
-| 9 | **[Windmill](https://github.com/windmill-labs/windmill)** | [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers) | Rust / Svelte / Python | AGPL 3.0 (Community) | Ultra-fast code-first developer platform turning scripts into internal endpoints, UIs, and workflows |
-| 10 | **[Argo Workflows](https://github.com/argoproj/argo-workflows)** | [![GitHub stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers) | Go / Kubernetes CRD | Apache 2.0 | Kubernetes-native container workflow engine for ML compute, parallel batch jobs, and CI/CD pipelines |
-| 11 | **[Automatisch](https://github.com/automatisch/automatisch)** | [![GitHub stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers) | JavaScript / React | AGPL 3.0 | GDPR-compliant self-hosted Zapier alternative for privacy-conscious internal automation |
-| 12 | **[Flowable](https://github.com/flowable/flowable-engine)** | [![GitHub stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers) | Java / Spring Boot | Apache 2.0 | Enterprise BPMN 2.0, CMMN, and DMN execution engine for human task approvals and case management |
-| 13 | **[Dagu](https://github.com/yohamta/dagu)** | [![GitHub stars](https://img.shields.io/github/stars/yohamta/dagu?style=social&color=white)](https://github.com/yohamta/dagu/stargazers) | Go / YAML | GPL 3.0 | Zero-dependency single-binary orchestrator; declarative YAML DAGs with human-in-the-loop approvals |
-| 14 | **[Camunda](https://github.com/camunda/camunda)** | [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers) | Java / Zeebe | Apache 2.0 / Commercial | Scalable distributed process orchestrator; visual BPMN diagramming, decision tables, and Zeebe engine |
-| 15 | **[Bonita](https://github.com/bonitasoft/bonita-engine)** | [![GitHub stars](https://img.shields.io/github/stars/bonitasoft/bonita-engine?style=social&color=white)](https://github.com/bonitasoft/bonita-engine/stargazers) | Java | GPL 2.0 (Community) | Full-stack digital process automation suite with integrated visual studio and end-user portal |
+| 1 | **[n8n](https://github.com/n8n-io/n8n)** | [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Sustainable Use License | Canvas-based visual integration builder; 400+ nodes, webhooks, and AI agent extensions |
+| 2 | **[Huginn](https://github.com/huginn/huginn)** | [![GitHub_Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers) | Ruby / MySQL | MIT License | Open-source self-hosted IFTTT/Zapier agent ecosystem for scraping, events, and automated alerts |
+| 3 | **[Apache Airflow](https://github.com/apache/airflow)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Python / Celery / K8s | Apache 2.0 | Programmatic Python DAG orchestrator; industry-standard batch data pipelines and ETL ops |
+| 4 | **[Kestra](https://github.com/kestra-io/kestra)** | [![GitHub_Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers) | Java / Micronaut | Apache 2.0 | Declarative YAML-based event-driven orchestrator with microservice and data pipeline topologies |
+| 5 | **[Activepieces](https://github.com/activepieces/activepieces)** | [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | TypeScript / Angular | MIT License | Lightweight no-code visual workflow automation, 400+ community pieces, AI and MCP server support |
+| 6 | **[Temporal](https://github.com/temporalio/temporal)** | [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) | Go / Multi-SDK | MIT License | Durable code-first execution platform; distributed transactions, Saga patterns, and infinite retries |
+| 7 | **[Prefect](https://github.com/prefecthq/prefect)** | [![GitHub_Stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers) | Python / Pydantic | Apache 2.0 | Python-native dynamic workflow orchestrator with granular task caching, state hooks, and web UI |
+| 8 | **[Node-RED](https://github.com/node-red/node-red)** | [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) | JavaScript / Node.js | Apache 2.0 | Flow-based visual programming for wiring hardware devices, APIs, edge gateways, and IoT pipelines |
+| 9 | **[Windmill](https://github.com/windmill-labs/windmill)** | [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers) | Rust / Svelte / Python | AGPL 3.0 (Community) | Ultra-fast code-first developer platform turning scripts into internal endpoints, UIs, and workflows |
+| 10 | **[Argo Workflows](https://github.com/argoproj/argo-workflows)** | [![GitHub_Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers) | Go / Kubernetes CRD | Apache 2.0 | Kubernetes-native container workflow engine for ML compute, parallel batch jobs, and CI/CD pipelines |
+| 11 | **[Automatisch](https://github.com/automatisch/automatisch)** | [![GitHub_Stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers) | JavaScript / React | AGPL 3.0 | GDPR-compliant self-hosted Zapier alternative for privacy-conscious internal automation |
+| 12 | **[Flowable](https://github.com/flowable/flowable-engine)** | [![GitHub_Stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers) | Java / Spring Boot | Apache 2.0 | Enterprise BPMN 2.0, CMMN, and DMN execution engine for human task approvals and case management |
+| 13 | **[Dagu](https://github.com/yohamta/dagu)** | [![GitHub_Stars](https://img.shields.io/github/stars/yohamta/dagu?style=social&color=white)](https://github.com/yohamta/dagu/stargazers) | Go / YAML | GPL 3.0 | Zero-dependency single-binary orchestrator; declarative YAML DAGs with human-in-the-loop approvals |
+| 14 | **[Camunda](https://github.com/camunda/camunda)** | [![GitHub_Stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers) | Java / Zeebe | Apache 2.0 / Commercial | Scalable distributed process orchestrator; visual BPMN diagramming, decision tables, and Zeebe engine |
+| 15 | **[Bonita](https://github.com/bonitasoft/bonita-engine)** | [![GitHub_Stars](https://img.shields.io/github/stars/bonitasoft/bonita-engine?style=social&color=white)](https://github.com/bonitasoft/bonita-engine/stargazers) | Java | GPL 2.0 (Community) | Full-stack digital process automation suite with integrated visual studio and end-user portal |
 
 ---
 
 ### 🔍 Detailed Open-Source Profiles
 
 #### 1. n8n
-* **GitHub Repository:** [`n8n-io/n8n`](https://github.com/n8n-io/n8n) | [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
+* **GitHub Repository:** [`n8n-io/n8n`](https://github.com/n8n-io/n8n) | [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
 * **Stack:** TypeScript / Node.js | **License:** Sustainable Use License
 * **Architectural Overview:** n8n is the most widely adopted fair-code workflow automation system. Its visual graph editor connects 400+ SaaS applications, database systems, webhooks, and modern AI/LLM components. While source-available and free for internal operational self-hosting, commercial OEM re-distribution requires a commercial agreement.
 * **Best For:** Technical IT teams and developers wanting an extensible visual Zapier alternative with custom code nodes.
 
 #### 2. Huginn
-* **GitHub Repository:** [`huginn/huginn`](https://github.com/huginn/huginn) | [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)
+* **GitHub Repository:** [`huginn/huginn`](https://github.com/huginn/huginn) | [![GitHub_Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)
 * **Stack:** Ruby / MySQL | **License:** MIT License
 * **Architectural Overview:** Huginn is an autonomous agent-based framework designed to monitor events on your behalf. Agents scan the web for changes, parse JSON feeds, emit structured notifications, and execute triggered actions across chat, email, and HTTP endpoints.
 * **Best For:** Automated external event monitoring, web page change triggers, and scheduled data-scraping workflows.
 
 #### 3. Apache Airflow
-* **GitHub Repository:** [`apache/airflow`](https://github.com/apache/airflow) | [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
+* **GitHub Repository:** [`apache/airflow`](https://github.com/apache/airflow) | [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
 * **Stack:** Python / Celery / Kubernetes | **License:** Apache 2.0
 * **Architectural Overview:** Apache Airflow is the standard orchestrator for programmatic Directed Acyclic Graph (DAG) generation in Python. Backed by the Apache Software Foundation, it features battle-tested workers, an extensive provider catalog, backfilling support, and deep monitoring interfaces.
 * **Best For:** Complex batch data engineering pipelines, scheduled machine learning jobs, and cross-warehouse ETL.
 
 #### 4. Kestra
-* **GitHub Repository:** [`kestra-io/kestra`](https://github.com/kestra-io/kestra) | [![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)
+* **GitHub Repository:** [`kestra-io/kestra`](https://github.com/kestra-io/kestra) | [![GitHub_Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)
 * **Stack:** Java / Micronaut | **License:** Apache 2.0
 * **Architectural Overview:** Kestra is an event-driven control plane and workflow orchestrator. Workflows are defined as declarative YAML schemas that run with ultra-low latency, supporting both scheduled batch executions and microsecond microservice API trigger events.
 * **Best For:** Language-agnostic platform teams orchestrating cloud infrastructure, data pipelines, and internal business events.
 
 #### 5. Activepieces
-* **GitHub Repository:** [`activepieces/activepieces`](https://github.com/activepieces/activepieces) | [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
+* **GitHub Repository:** [`activepieces/activepieces`](https://github.com/activepieces/activepieces) | [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
 * **Stack:** TypeScript / Angular | **License:** MIT License
 * **Architectural Overview:** An open-source, permissive MIT-licensed automation platform designed as an enterprise-friendly Zapier alternative. It offers community-authored "pieces", sandboxed code runs, Model Context Protocol (MCP) server endpoints, and embedded automation builders.
 * **Best For:** Teams wanting an entirely open-source (MIT) drag-and-drop automation platform suitable for internal apps and white-label embedding.
 
 #### 6. Temporal
-* **GitHub Repository:** [`temporalio/temporal`](https://github.com/temporalio/temporal) | [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
+* **GitHub Repository:** [`temporalio/temporal`](https://github.com/temporalio/temporal) | [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
 * **Stack:** Go / SDKs in Go, Java, TypeScript, Python | **License:** MIT License
 * **Architectural Overview:** Temporal is a durable execution platform where business logic is authored entirely as code. If servers crash, processes restart, or third-party APIs fail, Temporal seamlessly resumes state from event logs without manual intervention or data loss.
 * **Best For:** Mission-critical distributed systems, financial transaction routing, and long-running Saga transactions.
 
 #### 7. Prefect
-* **GitHub Repository:** [`prefecthq/prefect`](https://github.com/prefecthq/prefect) | [![GitHub stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers)
+* **GitHub Repository:** [`prefecthq/prefect`](https://github.com/prefecthq/prefect) | [![GitHub_Stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers)
 * **Stack:** Python / Pydantic | **License:** Apache 2.0
 * **Architectural Overview:** Prefect provides a Python-native workflow orchestration framework based on function decorators (`@flow` and `@task`). It offers dynamic task creation, caching, automatic parameter validation, and asynchronous execution across distributed worker pools.
 * **Best For:** Python developers and data scientists wanting code-native orchestration with minimal boilerplate.
 
 #### 8. Node-RED
-* **GitHub Repository:** [`node-red/node-red`](https://github.com/node-red/node-red) | [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
+* **GitHub Repository:** [`node-red/node-red`](https://github.com/node-red/node-red) | [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
 * **Stack:** JavaScript / Node.js | **License:** Apache 2.0
 * **Architectural Overview:** Originally built by IBM, Node-RED is a flow-based browser development tool for wiring hardware devices, API webhooks, industrial sensors, and online services together.
 * **Best For:** Industrial IoT edge operations, hardware monitoring, and lightweight event routing.
 
 #### 9. Windmill
-* **GitHub Repository:** [`windmill-labs/windmill`](https://github.com/windmill-labs/windmill) | [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)
+* **GitHub Repository:** [`windmill-labs/windmill`](https://github.com/windmill-labs/windmill) | [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)
 * **Stack:** Rust / Svelte / Python / TypeScript | **License:** AGPL 3.0 (Community)
 * **Architectural Overview:** Windmill is a developer platform that turns raw Python, TypeScript, Go, Bash, or SQL scripts into production-ready endpoints, scheduled flows, and interactive auto-generated internal admin panels.
 * **Best For:** Engineering teams automating DevOps playbooks, infrastructure scripting, and high-performance internal tools.
 
 #### 10. Argo Workflows
-* **GitHub Repository:** [`argoproj/argo-workflows`](https://github.com/argoproj/argo-workflows) | [![GitHub stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers)
+* **GitHub Repository:** [`argoproj/argo-workflows`](https://github.com/argoproj/argo-workflows) | [![GitHub_Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers)
 * **Stack:** Go / Kubernetes Custom Resource Definitions | **License:** Apache 2.0
 * **Architectural Overview:** A CNCF graduated project implemented as a Kubernetes CRD. Each step in an Argo workflow runs as a native pod, offering parallelization, container isolation, and artifact tracking across Kubernetes clusters.
 * **Best For:** Cloud-native Kubernetes teams orchestrating containerized machine learning pipelines and batch computing.
 
 #### 11. Automatisch
-* **GitHub Repository:** [`automatisch/automatisch`](https://github.com/automatisch/automatisch) | [![GitHub stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers)
+* **GitHub Repository:** [`automatisch/automatisch`](https://github.com/automatisch/automatisch) | [![GitHub_Stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers)
 * **Stack:** JavaScript / React / Node.js | **License:** AGPL 3.0
 * **Architectural Overview:** Automatisch provides a self-hosted visual workflow builder focused on user privacy and regulatory compliance (GDPR/HIPAA). It operates completely within your perimeter without relaying data through external clouds.
 * **Best For:** Privacy-regulated European businesses and healthcare providers needing no-code integration flows.
 
 #### 12. Flowable
-* **GitHub Repository:** [`flowable/flowable-engine`](https://github.com/flowable/flowable-engine) | [![GitHub stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers)
+* **GitHub Repository:** [`flowable/flowable-engine`](https://github.com/flowable/flowable-engine) | [![GitHub_Stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers)
 * **Stack:** Java / Spring Boot | **License:** Apache 2.0
 * **Architectural Overview:** Created by the original authors of Activiti, Flowable is a compact, highly optimized BPM engine with comprehensive support for BPMN 2.0, CMMN 1.1, and DMN 1.2 standards. It integrates into Spring Boot applications for handling complex organizational hierarchies and multi-level approval matrices.
 * **Best For:** Java enterprise teams building custom HR, procurement, and banking approval applications.
 
 #### 13. Dagu
-* **GitHub Repository:** [`yohamta/dagu`](https://github.com/yohamta/dagu) | [![GitHub stars](https://img.shields.io/github/stars/yohamta/dagu?style=social&color=white)](https://github.com/yohamta/dagu/stargazers)
+* **GitHub Repository:** [`yohamta/dagu`](https://github.com/yohamta/dagu) | [![GitHub_Stars](https://img.shields.io/github/stars/yohamta/dagu?style=social&color=white)](https://github.com/yohamta/dagu/stargazers)
 * **Stack:** Go / YAML | **License:** GPL 3.0
 * **Architectural Overview:** Dagu is a zero-dependency, local-first workflow orchestrator that runs from a single binary without requiring external databases. Workflows are declared in YAML with native support for shell commands, Docker containers, human-in-the-loop approvals, and Model Context Protocol (MCP) AI agents.
 * **Best For:** Operations teams requiring a lightweight cron and task orchestrator with human approvals that runs anywhere without operational overhead.
 
 #### 14. Camunda
-* **GitHub Repository:** [`camunda/camunda`](https://github.com/camunda/camunda) | [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers)
+* **GitHub Repository:** [`camunda/camunda`](https://github.com/camunda/camunda) | [![GitHub_Stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers)
 * **Stack:** Java / Zeebe Engine | **License:** Apache 2.0 / Commercial
 * **Architectural Overview:** Camunda provides an enterprise process orchestration platform powered by Zeebe, a distributed, horizontally scalable workflow engine. It supports formal BPMN 2.0 modeling, decision tables (DMN), human task management, and end-to-end process observability.
 * **Best For:** Large enterprises standardizing core operational processes with compliance auditing and formal BPMN governance.
 
 #### 15. Bonita
-* **GitHub Repository:** [`bonitasoft/bonita-engine`](https://github.com/bonitasoft/bonita-engine) | [![GitHub stars](https://img.shields.io/github/stars/bonitasoft/bonita-engine?style=social&color=white)](https://github.com/bonitasoft/bonita-engine/stargazers)
+* **GitHub Repository:** [`bonitasoft/bonita-engine`](https://github.com/bonitasoft/bonita-engine) | [![GitHub_Stars](https://img.shields.io/github/stars/bonitasoft/bonita-engine?style=social&color=white)](https://github.com/bonitasoft/bonita-engine/stargazers)
 * **Stack:** Java | **License:** GPL 2.0 (Community)
 * **Architectural Overview:** Bonita by Bonitasoft is a Digital Process Automation (DPA) suite combining a BPMN modeling studio, an execution engine, and a web portal for human actors to claim, execute, and monitor business activities.
 * **Best For:** Traditional corporate IT teams seeking a bundled BPM platform with an integrated UI studio and portal.
